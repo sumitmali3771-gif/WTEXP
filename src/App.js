@@ -3,7 +3,8 @@ import React from 'react';
 function App() {
   return (
     <div>
-      <h1>WT React Experiments</h1>
+      <h1>Welcome to My React App</h1>
+      <h2>Hello, world!</h2>
     </div>
   );
 }
