@@ -1,1 +1,1 @@
-Experiment related to react - 23BIT193
+Experiment 7 - Creating a counter using react 
