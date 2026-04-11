@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import UserDirectory from './UserDirectory';
+import CartApp from './CartApp';
 
 function App() {
   // Remove default body margins for the full screen gradient
@@ -13,7 +13,7 @@ function App() {
     <div style={styles.appWrapper}>
       <div style={styles.fixedBg}></div>
       <div style={styles.content}>
-        <UserDirectory />
+        <CartApp />
       </div>
     </div>
   );
